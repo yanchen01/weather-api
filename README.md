@@ -16,7 +16,7 @@ Request Body: {
 Description: Retrieve information about weather forecast in future days by zipcode and number of days. (Max of 3 days due to free tier API limit) 
 
 ```
-Req Body: {
+Request Body: {
   zipcode: String,
   days: Int
 }
